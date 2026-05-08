@@ -1,6 +1,12 @@
 ## Hi there 👋
 ### sobre mi
-*soy estudiante de la universidad politecnica de aguascalientes , estoy cursando la carrera de tecnologias de la informocion e innovacion digital*
+*soy estudiante de la universidad politecnica de aguascalientes , estoy cursando la carrera de tecnologias de la informocion e innovacion digital y apenas estoy aprendiendo coforme la practica a programar*
+
+*unos de mis pasaatiemppos favoritos es escuchar musica y ver series de epoca y romance*
+
+*en un momento de mi vida pensaba eb estudiar mas la parte de industria automotriz pero despues cambie totalmente de opinión*
+
+
 <!--
 **up250690macy/up250690macy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
