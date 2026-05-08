@@ -1,10 +1,9 @@
 ## Hola soy yazmin  👋
 ### sobre mi
 *soy estudiante de la universidad politecnica de aguascalientes , estoy cursando la carrera de **tecnologias de la informocion e innovacion digital** y apenas estoy aprendiendo coforme la practica a programar*
-
-*unos de mis pasaatiemppos favoritos es escuchar musica y ver series de epoca y romance*
-
+*unos de mis pasatiemppos favoritos es escuchar musica y ver series de epoca y romance*
 *en un momento de mi vida pensaba eb estudiar mas la parte de industria automotriz pero cambie totalmente de opinión lo cual por ello ahora estudio acerca de la programacion*
+
 *unas de mis metas son:*
 
 -viajar mas
