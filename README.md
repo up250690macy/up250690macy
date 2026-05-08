@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### sobre mi
+*soy estudiante de la universidad politecnica de aguascalientes , estoy cursando la carrera de tecnologias de la informocion e innovacion digital*
 <!--
 **up250690macy/up250690macy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
