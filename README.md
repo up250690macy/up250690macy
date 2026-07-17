@@ -3,7 +3,7 @@
 *soy estudiante de la universidad politecnica de aguascalientes , estoy cursando la carrera de **tecnologias de la informocion e innovacion digital** y apenas estoy aprendiendo coforme la practica a programar*
 
 
-*unas de mis metas son:*
+**unas de mis metas son:**
 
 -viajar mas
 
@@ -13,7 +13,7 @@
 
 #### mis fortalezas ####
 
-ser paciente ,resliente  ,  positiva.  
+ser paciente ,resiliente  y positiva.  
 
 
 
