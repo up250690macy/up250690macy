@@ -7,18 +7,12 @@
 *unas de mis metas son:*
 
 -viajar mas
-
--terminar la carrera
-
--tener una casa de campo
-
--tener trabajo remoto 
-
--ser  una buena programadora
+-tener trabajo estable
+-ser mas disciplinada
 
 #### mis fortalezas ####
 
-ser paciente y empatica , soy una persona muy resliente y que siempre lo intenta , soy positiva y buena analizando.  
+ser paciente ,soy resliente  , soy positiva.  
 
 
 
