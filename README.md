@@ -6,7 +6,9 @@
 *unas de mis metas son:*
 
 -viajar mas
+
 -tener trabajo estable
+
 -ser una persona disciplinada
 
 #### mis fortalezas ####
